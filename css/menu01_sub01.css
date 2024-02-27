@@ -21,7 +21,6 @@
     float: left;
     width: 600px;
     height: 400px;
-    background: #cc0;
     overflow: hidden;
     }
     #people_row_01_left > aside {
@@ -63,6 +62,6 @@
         clear: both;
         width: 1920px;
         height: 2px;
-        background: #699;
+        background: #F5F6FA;
         margin: 0 auto;
         }

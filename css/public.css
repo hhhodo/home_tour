@@ -44,7 +44,7 @@ img, table, tr, td {
     width: 1920px;
     height: 800px;
     margin: 0 auto;
-    background: #f4f4f4;
+    background: #FAFBFE;
     }
     .m_content_center {
     position: relative;
@@ -68,7 +68,7 @@ img, table, tr, td {
     clear: both;
     width: 300px;
     height: 2px;
-    background: #C60;
+    background-color: rgb(212, 39, 235);
     }
     #m_content_up_02 {
     position: relative;
